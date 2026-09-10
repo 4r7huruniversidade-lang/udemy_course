@@ -1,0 +1,6 @@
+O que você aprenderá
+Extração de dados
+Selenium
+Python
+sqlAlchemy
+Web scraping
