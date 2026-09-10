@@ -1,0 +1,10 @@
+O que você aprenderá
+Aprender o que é uma API
+Aprender para quê serve uma API
+Aprender a entender a estrutura de uma API
+Aprender a instalar e utilizar as ferramentas necessárias para extrair dados de uma API
+Aprender a extrair dados de uma API com Python
+Aprender a orquestrar um fluxo de extração de dados recorrente
+Aprender a criar um ambiente na nuvem para extrair dados
+Aprender a extrair os dados da API para um arquivo (localmente e na nuvem)
+Aprender dicas para o consumo de dados de API
