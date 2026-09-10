@@ -1,0 +1,46 @@
+The Basics of Tensors and Variables with Tensorflow
+Basics of Tensorflow and training neural networks with TensorFlow 2.
+Convolutional Neural Networks applied to Malaria Detection
+Building more advanced Tensorflow models with Functional API, Model Subclassing and Custom Layers
+Evaluating Classification Models using different metrics like: Precision,Recall,Accuracy and F1-score
+Classification Model Evaluation with Confusion Matrix and ROC Curve
+Tensorflow Callbacks, Learning Rate Scheduling and Model Check-pointing
+Mitigating Overfitting and Underfitting with Dropout, Regularization, Data augmentation
+Data augmentation with TensorFlow using TensorFlow image and Keras Layers
+Advanced augmentation strategies like Cutmix and Mixup
+Data augmentation with Albumentations with TensorFlow 2 and PyTorch
+Custom Loss and Metrics in TensorFlow 2
+Eager and Graph Modes in TensorFlow 2
+Custom Training Loops in TensorFlow 2
+Integrating Tensorboard with TensorFlow 2 for data logging, viewing model graphs, hyperparameter tuning and profiling
+Machine Learning Operations (MLOps) with Weights and Biases
+Experiment tracking with Wandb
+Hyperparameter tuning with Wandb
+Dataset versioning with Wandb
+Model versioning with Wandb
+Human emotions detection
+Modern convolutional neural networks(Alexnet, Vggnet, Resnet, Mobilenet, EfficientNet)
+Transfer learning
+Visualizing convnet intermediate layers
+Grad-cam method
+Model ensembling and class imbalance
+Transformers in Vision
+Model deployment
+Conversion from tensorflow to Onnx Model
+Quantization Aware training
+Building API with Fastapi
+Deploying API to the Cloud
+Object detection from scratch with YOLO
+Image Segmentation from scratch with UNET model
+People Counting from scratch with Csrnet
+Digit generation with Variational autoencoders (VAE)
+Face generation with Generative adversarial neural networks (GAN)
+Sentiment Analysis with Recurrent neural networks, Attention Models and Transformers from scratch
+Neural Machine Translation with Recurrent neural networks, Attention Models and Transformers from scratch
+Intent Classification with Deberta in Huggingface transformers
+Neural Machine Translation with T5 in Huggingface transformers
+Extractive Question Answering with Longformer in Huggingface transformers
+E-commerce search engine with Sentence transformers
+Lyrics Generator with GPT2 in Huggingface transformers
+Grammatical Error Correction with T5 in Huggingface transformers
+Elon Musk Bot with BlenderBot in Huggingface transformers
