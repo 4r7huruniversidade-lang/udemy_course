@@ -1,0 +1,34 @@
+Lógica da Linguagem Python (Variáveis, IF, While, For, Funções, Listas, Tuplas, Dicionários, Set, Matrizes, POO, Lista Encadeada, Pilha, Fila, Árvore, Grafos)
+Desenvolva Robôs Sofisticados para Automatizar Tarefas, Importar e Exportar Informações de Websites, e também Crie Vários Projetos Reais com Interfaces Gráfica
+Você aprenderá sobre Aprendizado de Máquina, Algoritmos de Árvore de Decisão, Naive Bayes, Aprendizado Supervisionado e por Reforço
+Crie Projetos Reais com Interface Gráfica com o uso do Tkinter e eleve seu nível de Python
+Jogos com PyGame
+Criar robô para manipular dados no Excel, Word e extrair dados de PDF
+Dispara e-mails em massa usando Python, Excel e Outlook
+Pandas
+Xlsxwither
+Openpyxl
+Tkinter
+Python com SQL
+Python com MongoDB
+Aprendizado de Máquina
+Como as Máquinas Aprendem
+Dash
+Flask
+Fast API
+Lógica de programação em Python.
+Trabalhar com estruturas de dados (listas, tuplas, dicionários, árvores, grafos).
+Aplicar Programação Orientada a Objetos.
+Desenvolver robôs de automação (RPA).
+Extrair dados da internet e salvar em Excel.
+Automatizar preenchimento de formulários web.
+Trabalhar com Excel usando xlsxwriter, openpyxl e pandas.
+Manipular arquivos TXT e PDF.
+Criar interfaces gráficas profissionais com Tkinter.
+Desenvolver sistemas completos com banco de dados (SQLite, MongoDB).
+Criar APIs com FastAPI.
+Desenvolver aplicações web com Flask e Dash.
+Desenvolver projetos reais de gestão (supermercado, clínica, escola, reservas, estoque).
+Criar jogos com PyGame (incluindo Tetris, Pac-Man, Space Invaders e muitos outros).
+Aplicar conceitos de Big-O e estruturas avançadas.
+Entender fundamentos de Aprendizado de Máquina.
