@@ -1,0 +1,26 @@
+Keys to Generative AI, LLM Apps, AI Agents and AI Assistants like Cursor & Claude Code.
+LLM Apps and AI Agents with LangChain, CrewAI, LangGraph, and LangSmith.
+How to build apps without coding using Cursor AI, Claude Code, and others.
+How to build the new Multimodal and Multi-Agent LLM Applications.
+Opportunities and threats of AI for businesses, startups, and jobs.
+RAG Applications in Depth: Full Stack RAG Apps and Advanced Techniques.
+How to manage LLMOps: Observability, Evaluation, Testing, Etc.
+Professional opportunities opened by Artificial Intelligence.
+Steps to become an Artificial Intelligence Engineer.
+How to introduce Artificial Intelligence into your business.
+Keys to build and deploy LLM Applications and AI Agents.
+Architecture of professional LLM Applications.
+The RAG Technique (Retrieval Augmented Generation).
+Artificial Intelligence Agents. Dynamic Agents. Multi-Agents.
+Basic and advanced LangChain, LCEL, LangChain v1.0. LangSmith, etc.
+LCEL (LangChain Expression Language) in depth.
+Analysis of LangChain alternatives: LlamaIndex, OpenAI API, etc.
+The new Deep Agents framework to build super-agents.
+How to use alternative LLMs: OpenAI, Anthropic, Google, Grok, Deepseek, etc.
+Vector databases: Postgres, Pinecone, Chroma, FAISS, DeepLake, etc.
+Full-Stack Applications: Nextjs and FastAPI.
+Professional deployment: Vercel and Render.
+Provisional deployment: Streamlit, Agent Chat UI.
+Cloud hosting: AWS S3.
+How to apply the principles of Responsible AI.
+Daily tools of the AI Engineer: Jupyter Notebooks, Python, Terminal, Github, Codespaces, etc.
