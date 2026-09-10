@@ -1,0 +1,21 @@
+Learn complete text processing with Python
+Learn how to extract text from PDF files
+Use Regular Expressions for search in text
+Use SpaCy and NLTK to extract complete text features from raw text
+Use Latent Dirichlet Allocation for Topic Modelling
+Use Scikit-Learn and Deep Learning for Text Classification
+Learn Multi-Class and Multi-Label Text Classification
+Use Spacy and NLTK for Sentiment Analysis
+Understand and Build word2vec and GloVe based ML models
+Use Gensim to obtain pretrained word vectors and compute similarities and analogies
+Learn Text Summarization and Text Generation using LSTM and GRU
+Understand the basic concepts and techniques of natural language processing and their applications.
+Learn how to use Python and its popular libraries such as NLTK and spaCy to perform common NLP tasks.
+Be able to tokenize and stem text data using Python.
+Understand and apply common NLP techniques such as sentiment analysis, text classification, and named entity recognition.
+Learn how to apply NLP techniques to real-world problems and projects.
+Understand the concept of topic modeling and implement it using Python.
+Learn the basics of text summarization and its implementation using Python.
+Understand the concept of text generation and implement it using Python
+Understand the concept of text-to-speech and speech-to-text conversion and implement them using Python.
+Learn how to use deep learning techniques for NLP such as RNN, LSTM, and word embedding.
