@@ -1,0 +1,22 @@
+Program Overview
+In this course, we will cover everything from the ground up. Here’s a glimpse of what you can expect:
+
+Foundational Skills: Begin with Python programming, ensuring you have a solid base to build upon.
+
+Exploratory Data Analysis (EDA): Learn techniques to visualize and interpret data, making informed decisions based on your findings.
+
+Statistics: Gain a strong understanding of statistical concepts that are vital for data analysis and model evaluation.
+
+SQL: Master the art of querying databases to extract and manipulate data effectively.
+
+Machine Learning (ML): Dive into core ML algorithms and their applications, from supervised to unsupervised learning.
+
+Deep Learning (DL): Explore neural networks and their powerful capabilities in various domains.
+
+Natural Language Processing (NLP): Understand the intricacies of processing and analyzing human language data.
+
+Time Series Analysis: Learn how to analyze time-dependent data and forecast future trends.
+
+Transformers & Generative AI: Discover cutting-edge techniques in AI, including transformer models and their applications.
+
+Model Deployment: Learn how to deploy some of your machine learning or deep learning models on the Cloud.
