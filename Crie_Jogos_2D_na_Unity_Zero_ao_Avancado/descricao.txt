@@ -1,0 +1,12 @@
+O que você aprenderá
+
+    Criar jogos 2D completos na Unity, mesmo começando do zero.
+    Programar mecânicas de jogos utilizando C# na prática.
+    Desenvolver sistemas reais como pontuação, UI, save e áudio.
+    Trabalhar com física 2D, colisões e interações entre objetos.
+    Criar animações e movimentação fluida para personagens.
+    Construir jogos estilo Angry Birds, Metal Slug e Clash of Clans.
+    Publicar seus jogos na Google Play.
+    Implementar monetização com anúncios e compras no app.
+    Estruturar projetos de forma profissional e escalável.
+    Ter base sólida para evoluir para jogos mais avançados.
