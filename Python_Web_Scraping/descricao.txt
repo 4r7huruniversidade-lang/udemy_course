@@ -1,0 +1,4 @@
+O que você aprenderá
+
+    Utilizar o Python para realizar web scraping para coleta de informações na Internet.
+    Utilizar técnicas de web scraping e web crawling para acessar dados a partir de qualquer fonte na Web e em qualquer formato.
